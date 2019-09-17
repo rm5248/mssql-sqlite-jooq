@@ -1,0 +1,4 @@
+CREATE TABLE ExampleData (
+	DataKey INTEGER PRIMARY KEY NOT NULL,
+        FloatData FLOAT NULL
+);
